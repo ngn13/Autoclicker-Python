@@ -1,5 +1,5 @@
 # Autoclicker-Python
-This project is an basic but powerfull autoclicker, to use it you need following packages:
+This project is an basic but powerfull autoclicker (it took me ages, absolutely not coded in 5 mins), to use it you need following packages:
 >keyboard
 >
 >pynput
